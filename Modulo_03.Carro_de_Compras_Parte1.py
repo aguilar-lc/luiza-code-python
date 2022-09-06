@@ -24,4 +24,9 @@ def get_item_cart_by_id(id_product):
             print(f'O id_product -> {i[1]} <- corresponde ao item -> {i} <- do carrinho.')
             print('-'*60)        
 get_item_cart_by_id(id_product)
-    
+
+def get_item_cart_by_product_id(id_product):
+    new_list = [item for item in cart if item[1] == id_product]
+    return new_list[0]
+get_item_cart_by_product_id(id_product)
+print(item)
