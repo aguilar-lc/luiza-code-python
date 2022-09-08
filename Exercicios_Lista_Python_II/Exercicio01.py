@@ -12,8 +12,8 @@ class Pessoa:
     
     def descricao(self):
         if self.tipo == 'F':
-            print(f'{self.nome} tem {self.idade} anos, seu cpf é {self.cpf} e é fumante.')
+            print(f'{self.nome} tem {self.idade} anos, seu cpf é {self.cpf} e é fumante')
         if self.tipo == 'N':
-            print(f'{self.nome} tem {self.idade} anos, seu cpf é {self.cpf} e não é fumante.')
+            print(f'{self.nome} tem {self.idade} anos, seu cpf é {self.cpf} e não é fumante')
         
 pessoa1 = Pessoa('João', '30', '123456789', 'N').descricao()
