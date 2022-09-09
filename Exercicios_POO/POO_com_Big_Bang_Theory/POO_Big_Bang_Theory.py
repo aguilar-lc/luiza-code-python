@@ -35,7 +35,7 @@ personagem5 = Big_Bang_Theory('Rajesh Koothrappali', 'Astrofísico',
 personagem5.descricao()
 personagem5.exibir_caracteristica()
 
-personagem6= Big_Bang_Theory('Bernadette Wolowitz', 'Microbiologista', 'Sou um doce..Hooowaard!!!')
+personagem6= Big_Bang_Theory('Bernadette Wolowitz', 'Microbiologista', 'Sou um doce...Hooowaard!!!')
 personagem6.descricao()
 personagem6.exibir_caracteristica()
 
