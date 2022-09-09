@@ -8,7 +8,7 @@ class Amigos_Hawkins:
         
     def mostrar_descricao(self):
         print(f'O nome do personagem é {self.personagem}, também conhecido(a) como: {self.apelido}')
-        print(f'Interpretado(a) por... -> {self.interprete}')
+        print(f'Interpretado(a) por.... -> {self.interprete}')
         print()
 
 amigo1 = Amigos_Hawkins('Onze', 'On','Millie Bobby Brown').mostrar_descricao()
