@@ -6,8 +6,8 @@ from Exercicio05 import Quadrado
 def main():
     quadrado = Quadrado(5)
 
-    print(f"A área do quadrado é: {quadrado.mostra_area()}m²")
-    print(f"O perímetro do quadrado é: {quadrado.mostra_perimetro()}m")
+    print(f"A área do quadrado é {quadrado.mostra_area()}m²")
+    print(f"O perímetro do quadrado é {quadrado.mostra_perimetro()}m")
 
 
 if __name__ == "__main__":
