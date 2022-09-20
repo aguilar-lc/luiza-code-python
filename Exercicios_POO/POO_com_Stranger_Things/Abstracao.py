@@ -14,5 +14,5 @@ class Mundo_Invertido:
     
 hopper = Mundo_Invertido('entrar no mundo invertido e salvar Will', 'Hopper', 'biblioteca da cidade')
 
-# Voce nao precisa saber o que acontece por debaixo dos panos da função
+# Voce não precisa saber o que acontece por debaixo dos panos da função
 print(hopper.resgate_do_mundoinvertido())
