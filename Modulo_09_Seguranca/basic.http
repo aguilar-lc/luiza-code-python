@@ -1,0 +1,6 @@
+GET http://127.0.0.1:8000/auth/basic
+Authorization: Basic ZmVsaXBlOmx1aXphY29kZTI=
+
+
+# ZmVsaXBlOmx1aXphY29kZQ==
+#ZmVsaXBlOmx1aXphY29kZTI=
