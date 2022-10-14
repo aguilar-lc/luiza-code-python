@@ -1,4 +1,5 @@
-### 1) O Python trabalha tipos de valores. Com os valores abaixo, dê o nome de seus tipos:
+### 1) O Python trabalha tipos de valores.
+# Com os valores abaixo, dê o nome de seus tipos:
 
 # a. 1 = int
 
