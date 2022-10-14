@@ -4,7 +4,7 @@
 // Use Ctrl+Space inside a snippet or a string literal to trigger completions.
 
 
-// ----- 1. CREATE -----/
+// ----- 1. CREATE ----/
 // Insert a few documents into the sales collection.
     use('luiza_code');
     db.clients.insertMany([
