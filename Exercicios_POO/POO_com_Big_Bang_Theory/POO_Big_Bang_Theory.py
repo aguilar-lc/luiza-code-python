@@ -40,6 +40,6 @@ personagem6.descricao()
 personagem6.exibir_caracteristica()
 
 personagem7 = Big_Bang_Theory('Amy Farrah Fowler ', 'Neurocientista', 
-                              'Oh, é uma tiara! Uma tiara! Eu tenho uma tiara!')
+                              'Oh, é uma tiara! Eu tenho uma tiara!')
 personagem7.descricao()
 personagem7.exibir_caracteristica()
